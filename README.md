@@ -119,6 +119,3 @@ Make sure to configure environment variables like `MONGODB_URI` on the deploymen
 Feel free to fork this repository and submit pull requests. Contributions are always welcome!
 
 ---
-
-## **License**
-This project is licensed under the MIT License.
