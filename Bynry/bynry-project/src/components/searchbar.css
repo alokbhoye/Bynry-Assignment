@@ -1,0 +1,11 @@
+/* Search input styling */
+input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
