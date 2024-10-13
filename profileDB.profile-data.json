@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "670ade226139250362db3650"
+  },
+  "name": "Jane Smith",
+  "description": "Graphic Designer from California",
+  "address": "1 Infinite Loop, Cupertino, CA",
+  "photo": "https://randomuser.me/api/portraits/women/2.jpg"
+},
+{
+  "_id": {
+    "$oid": "670adfd06139250362db3658"
+  },
+  "name": "Alice Johnson",
+  "description": "Software Engineer",
+  "address": "123 Maple St, Springfield, IL",
+  "photo": "https://randomuser.me/api/portraits/women/11.jpg"
+},
+{
+  "_id": {
+    "$oid": "670adfd06139250362db3659"
+  },
+  "name": "Michael Brown",
+  "description": "Data Scientist",
+  "address": "456 Oak St, Denver, CO",
+  "photo": "https://randomuser.me/api/portraits/men/12.jpg"
+},
+{
+  "_id": {
+    "$oid": "670adfd06139250362db365a"
+  },
+  "name": "Sophia Williams",
+  "description": "Project Manager",
+  "address": "789 Pine St, Austin, TX",
+  "photo": "https://randomuser.me/api/portraits/women/13.jpg"
+},
+{
+  "_id": {
+    "$oid": "670adfd06139250362db365b"
+  },
+  "name": "Liam Garcia",
+  "description": "UX Designer",
+  "address": "1010 Birch St, San Francisco, CA",
+  "photo": "https://randomuser.me/api/portraits/men/14.jpg"
+},
+{
+  "_id": {
+    "$oid": "670adfd06139250362db365c"
+  },
+  "name": "Emily Davis",
+  "description": "Marketing Manager",
+  "address": "1111 Cedar St, Miami, FL",
+  "photo": "https://randomuser.me/api/portraits/women/15.jpg"
+},
+{
+  "_id": {
+    "$oid": "670adfd06139250362db365d"
+  },
+  "name": "Mason Lee",
+  "description": "Product Manager",
+  "address": "1212 Elm St, Seattle, WA",
+  "photo": "https://randomuser.me/api/portraits/men/16.jpg"
+},
+{
+  "_id": {
+    "$oid": "670adfd06139250362db365e"
+  },
+  "name": "Ava Martinez",
+  "description": "Full Stack Developer",
+  "address": "1313 Redwood St, Los Angeles, CA",
+  "photo": "https://randomuser.me/api/portraits/women/17.jpg"
+},
+{
+  "_id": {
+    "$oid": "670adfd06139250362db365f"
+  },
+  "name": "Lucas Wilson",
+  "description": "Cloud Architect",
+  "address": "1414 Cherry St, Boston, MA",
+  "photo": "https://randomuser.me/api/portraits/men/18.jpg"
+},
+{
+  "_id": {
+    "$oid": "670adfd06139250362db3660"
+  },
+  "name": "Mia Anderson",
+  "description": "HR Manager",
+  "address": "1515 Chestnut St, Philadelphia, PA",
+  "photo": "https://randomuser.me/api/portraits/women/19.jpg"
+},
+{
+  "_id": {
+    "$oid": "670adfd06139250362db3661"
+  },
+  "name": "James Thomas",
+  "description": "DevOps Engineer",
+  "address": "1616 Walnut St, Chicago, IL",
+  "photo": "https://randomuser.me/api/portraits/men/20.jpg"
+},
+{
+  "_id": {
+    "$oid": "670ae80b45acd33764cdd71f"
+  },
+  "name": "Alok Bhoye",
+  "description": "Photo Editor",
+  "address": "Panchavati, India",
+  "photo": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670bd54cdb1847bf4bc5957d"
+  },
+  "name": "Nayan Bhoyar",
+  "description": "VLSI Engineer",
+  "address": "Wardha, Nagpur",
+  "photo": "",
+  "__v": 0
+}]
